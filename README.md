@@ -1,7 +1,8 @@
 # MWLT-Transformer-based-Missing-Well-Log-Prediction
 This is a repository for the paper "MWLT: Transformer-based Missing Well Log Prediction" (submit to JPSE)).
 ## Example
-![image](https://github.com/leilin1995/Higher-Resolution-and-Less-Noisy-Seismic-Images-An-Application-of-Generative-Adversarial-Neural-Net/blob/master/application/k3/crossline.png)
+This is an example of a density profile prediction for a well in the Lianggaoshan workings, Sichuan Basin.
+![image](https://github.com/leilin1995/MWLT-Transformer-based-Missing-Well-Log-Prediction/blob/master/main_article/Test_blind/Lianggaoshan/A1.png)
 
 ## Project Organization
 The repository contains is organized logically according to the following figure, the results contain hyperparameter settings, training loss, evaluation metrics, well-trained model, and prediction results.
