@@ -1,0 +1,17 @@
+----------start----------
+device :    0
+dropout :    0.1
+save_path :    ../result_normal
+train_files_path :    ../data_normal/train
+val_files_path :    ../data_normal/val
+input_curves :    ['GR', 'AC', 'CNL', 'RLLD']
+output_curves :    ['DEN']
+transform :    True
+total_seqlen :    720
+effect_seqlen :    640
+learning_rate :    1e-05
+epochs :    2000
+continute_train :    False
+checkpoint_path :    None
+patience :    150
+----------end----------

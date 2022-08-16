@@ -1,0 +1,3 @@
+MWLT_Small: params=0.465M, flops=0.297G
+MWLT_Base: params=0.927M, flops=0.592G
+MWLT_Large: params=5.529M, flops=3.536G

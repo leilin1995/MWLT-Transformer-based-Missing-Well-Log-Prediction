@@ -1,0 +1,23 @@
+----------start----------
+device :    0
+save_path :    ../result_base_nonormal
+train_files_path :    ../data_nonormal/train
+val_files_path :    ../data_nonormal/val
+input_curves :    ['GR', 'AC', 'CNL', 'RLLD']
+output_curves :    ['DEN']
+transform :    True
+total_seqlen :    720
+effect_seqlen :    640
+batch_size :    64
+model_type :    base
+feature_num :    64
+use_pe :    True
+drop :    0.1
+attn_drop :    0.1
+position_drop :    0.1
+learning_rate :    1e-05
+epochs :    2000
+continute_train :    False
+checkpoint_path :    None
+patience :    150
+----------end----------

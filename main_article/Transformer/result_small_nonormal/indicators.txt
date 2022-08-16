@@ -1,0 +1,2 @@
+train RMSE:0.0646,train mape:1.9400
+val RMSE:0.0771,val mape:2.3467
