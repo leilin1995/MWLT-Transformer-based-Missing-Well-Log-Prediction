@@ -45,7 +45,8 @@ Lin L, Wei H, Wu T, et al. Missing well-log reconstruction using a sequence self
 
 BibTex
 
-```@article{lin2023missing,
+```
+@article{lin2023missing,
   title={Missing well-log reconstruction using a sequence self-attention deep-learning framework},
   author={Lin, Lei and Wei, Hao and Wu, Tiantian and Zhang, Pengyun and Zhong, Zhi and Li, Chenglong},
   journal={Geophysics},
