@@ -40,11 +40,20 @@ You can learn how to use this repository by looking at the examples in Test_blin
 If you find this work useful in your research, please consider citing:
 
 ```
-
+Lin L, Wei H, Wu T, et al. Missing well-log reconstruction using a sequence self-attention deep-learning framework[J]. Geophysics, 2023, 88(6): D391-D410.
 ```
 
 BibTex
 
-```html
+```@article{lin2023missing,
+  title={Missing well-log reconstruction using a sequence self-attention deep-learning framework},
+  author={Lin, Lei and Wei, Hao and Wu, Tiantian and Zhang, Pengyun and Zhong, Zhi and Li, Chenglong},
+  journal={Geophysics},
+  volume={88},
+  number={6},
+  pages={D391--D410},
+  year={2023},
+  publisher={Society of Exploration Geophysicists}
+}
 
 ```
